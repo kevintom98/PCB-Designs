@@ -1,0 +1,236 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\kevin\OneDrive\Desktop\PCB\Boards\Brd_4_Sensor_Shield\Brd_4_Sensor_Shield_Kevin_Tom.PcbDoc
+Date     : 3/31/2022
+Time     : 8:30:15 AM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+   Violation between Clearance Constraint: (7.874mil < 10mil) Between Pad U2-1(770.63mil,1313.386mil) on Top Layer 1 And Pad U2-2(790.315mil,1313.386mil) on Top Layer 1 
+   Violation between Clearance Constraint: (7.874mil < 10mil) Between Pad U2-10(770.63mil,1486.614mil) on Top Layer 1 And Pad U2-9(790.315mil,1486.614mil) on Top Layer 1 
+   Violation between Clearance Constraint: (7.874mil < 10mil) Between Pad U2-2(790.315mil,1313.386mil) on Top Layer 1 And Pad U2-3(810mil,1313.386mil) on Top Layer 1 
+   Violation between Clearance Constraint: (8.78mil < 10mil) Between Pad U2-2(790.315mil,1313.386mil) on Top Layer 1 And Track (810mil,1273mil)(810mil,1313.386mil) on Top Layer 1 
+   Violation between Clearance Constraint: (7.874mil < 10mil) Between Pad U2-3(810mil,1313.386mil) on Top Layer 1 And Pad U2-4(829.685mil,1313.386mil) on Top Layer 1 
+   Violation between Clearance Constraint: (7.874mil < 10mil) Between Pad U2-4(829.685mil,1313.386mil) on Top Layer 1 And Pad U2-5(849.37mil,1313.386mil) on Top Layer 1 
+   Violation between Clearance Constraint: (8.78mil < 10mil) Between Pad U2-4(829.685mil,1313.386mil) on Top Layer 1 And Track (810mil,1273mil)(810mil,1313.386mil) on Top Layer 1 
+   Violation between Clearance Constraint: (7.874mil < 10mil) Between Pad U2-6(849.37mil,1486.614mil) on Top Layer 1 And Pad U2-7(829.685mil,1486.614mil) on Top Layer 1 
+   Violation between Clearance Constraint: (7.874mil < 10mil) Between Pad U2-7(829.685mil,1486.614mil) on Top Layer 1 And Pad U2-8(810mil,1486.614mil) on Top Layer 1 
+   Violation between Clearance Constraint: (7.874mil < 10mil) Between Pad U2-8(810mil,1486.614mil) on Top Layer 1 And Pad U2-9(790.315mil,1486.614mil) on Top Layer 1 
+Rule Violations :10
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=20mil) (InNet('3v3'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=20mil) (InNet('5v'))
+   Violation between Width Constraint: Track (1080mil,1631mil)(1268mil,1443mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1091.535mil,1352.598mil)(1092.033mil,1352.598mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1092.033mil,1352.598mil)(1098.585mil,1346.046mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1098.585mil,1266.415mil)(1098.585mil,1346.046mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1098.585mil,1266.415mil)(1118mil,1247mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1114mil,1155mil)(1118mil,1155mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1114mil,1155mil)(1118mil,1159mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1118mil,1155mil)(1425mil,1155mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1118mil,1159mil)(1118mil,1247mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1268mil,1443mil)(1462.5mil,1443mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1422.486mil,1058.403mil)(1425mil,1060.917mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1422.486mil,856.514mil)(1422.486mil,1058.403mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1422.486mil,856.514mil)(1425mil,854mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1425mil,1060.917mil)(1425mil,1155mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1425mil,1155mil)(1425mil,1187mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1425mil,1187mil)(1425mil,1210.5mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1425mil,1187mil)(1428mil,1190mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1425mil,1210.5mil)(1466mil,1251.5mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1425mil,456mil)(1425mil,854mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1425mil,456mil)(1451.643mil,429.357mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1425mil,854mil)(1426mil,855mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1426mil,855mil)(1486mil,855mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1428mil,1190mil)(1778.071mil,1190mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1451.643mil,429.357mil)(1464mil,429.357mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1460mil,60mil)(1505mil,105mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1462.5mil,1443mil)(1466.5mil,1439mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1464mil,429.357mil)(1481mil,412.357mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1466.5mil,1265.5mil)(1466.5mil,1439mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1466mil,1251.5mil)(1466mil,1265mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1466mil,1265mil)(1466.5mil,1265.5mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1481mil,142.53mil)(1481mil,220mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1481mil,142.53mil)(1505mil,118.53mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1481mil,220mil)(1481mil,412.357mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1481mil,220mil)(2494mil,220mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1505mil,105mil)(1505mil,118.53mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1778.071mil,1190mil)(1781mil,1192.929mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1778.071mil,1190mil)(2105mil,1190mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1781mil,1192.929mil)(1781mil,1270mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1781mil,1270mil)(1781mil,1433.5mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (1781mil,1433.5mil)(1781.5mil,1434mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (180mil,695mil)(264mil,695mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (2101.5mil,1429mil)(2106mil,1424.5mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (2104mil,1189mil)(2105mil,1190mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (2104mil,1189mil)(2399.142mil,1189mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (2105mil,1190mil)(2105mil,1264mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (2105mil,1264mil)(2106mil,1265mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (2106mil,1265mil)(2106mil,1424.5mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (2399.142mil,1189mil)(2405mil,1194.858mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (2401.5mil,1429mil)(2405mil,1425.5mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (2405mil,1194.858mil)(2405mil,1265mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (2405mil,1265mil)(2405mil,1425.5mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (2494mil,220mil)(2527.402mil,253.402mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (2527.402mil,253.402mil)(2527.402mil,294.882mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (2527.402mil,294.882mil)(2561.882mil,294.882mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (2561.882mil,294.882mil)(2575mil,308mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (2574mil,530mil)(2575mil,529mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (2575mil,308mil)(2575mil,529mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (264mil,695mil)(397.748mil,561.252mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (269mil,1370mil)(387.25mil,1370mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (296mil,222mil)(470.33mil,222mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (387.25mil,1370mil)(602.25mil,1155mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (397.748mil,477.252mil)(397.748mil,561.252mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (397.748mil,477.252mil)(470.33mil,404.67mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (470.33mil,222mil)(470.33mil,280mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (470.33mil,280mil)(470.33mil,404.67mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (470.33mil,280mil)(725.472mil,280mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (544mil,1728mil)(544mil,1790mil) on Top Layer 1 Actual Width = 6mil, Target Width = 20mil
+   Violation between Width Constraint: Track (544mil,1728mil)(641mil,1631mil) on Top Layer 1 Actual Width = 6mil, Target Width = 20mil
+   Violation between Width Constraint: Track (602.25mil,1155mil)(751mil,1155mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (641mil,1631mil)(800mil,1631mil) on Top Layer 1 Actual Width = 6mil, Target Width = 20mil
+   Violation between Width Constraint: Track (725.472mil,243.983mil)(725.472mil,280mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (725.472mil,243.983mil)(762.456mil,207mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (751mil,1155mil)(751mil,1293.756mil) on Top Layer 1 Actual Width = 6mil, Target Width = 20mil
+   Violation between Width Constraint: Track (751mil,1293.756mil)(759.239mil,1301.995mil) on Top Layer 1 Actual Width = 6mil, Target Width = 20mil
+   Violation between Width Constraint: Track (759.239mil,1301.995mil)(767.724mil,1301.995mil) on Top Layer 1 Actual Width = 6mil, Target Width = 20mil
+   Violation between Width Constraint: Track (762.456mil,207mil)(829mil,207mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (767.724mil,1301.995mil)(770.63mil,1304.901mil) on Top Layer 1 Actual Width = 6mil, Target Width = 20mil
+   Violation between Width Constraint: Track (770.63mil,1304.901mil)(770.63mil,1313.386mil) on Top Layer 1 Actual Width = 6mil, Target Width = 20mil
+   Violation between Width Constraint: Track (770.63mil,1313.386mil)(770.63mil,1380.508mil) on Top Layer 1 Actual Width = 6mil, Target Width = 20mil
+   Violation between Width Constraint: Track (770.63mil,1380.508mil)(810mil,1419.878mil) on Top Layer 1 Actual Width = 6mil, Target Width = 20mil
+   Violation between Width Constraint: Track (800mil,1585.969mil)(800mil,1631mil) on Top Layer 1 Actual Width = 6mil, Target Width = 20mil
+   Violation between Width Constraint: Track (800mil,1585.969mil)(810mil,1575.969mil) on Top Layer 1 Actual Width = 6mil, Target Width = 20mil
+   Violation between Width Constraint: Track (800mil,1631mil)(945mil,1631mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (810mil,1419.878mil)(810mil,1486.614mil) on Top Layer 1 Actual Width = 6mil, Target Width = 20mil
+   Violation between Width Constraint: Track (810mil,1486.614mil)(810mil,1575.969mil) on Top Layer 1 Actual Width = 6mil, Target Width = 20mil
+   Violation between Width Constraint: Track (829mil,207mil)(976mil,60mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (945mil,1631mil)(1080mil,1631mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+   Violation between Width Constraint: Track (976mil,60mil)(1460mil,60mil) on Top Layer 1 Actual Width = 10mil, Target Width = 20mil
+Rule Violations :88
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (2.054mil < 10mil) Between Pad C5-1(869mil,1155mil) on Top Layer 1 And Via (913mil,1199mil) from Top Layer 1 to Bottom Layer 1 [Top Solder] Mask Sliver [2.054mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (4mil < 10mil) Between Pad C8-2(178mil,222mil) on Top Layer 1 And Via (131.5mil,217mil) from Top Layer 1 to Bottom Layer 1 [Top Solder] Mask Sliver [4mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (9.843mil < 10mil) Between Pad U1-1(2452.598mil,294.882mil) on Top Layer 1 And Pad U1-2(2490mil,294.882mil) on Top Layer 1 [Top Solder] Mask Sliver [9.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (9.843mil < 10mil) Between Pad U1-1(2452.598mil,294.882mil) on Top Layer 1 And Pad U1-2(2490mil,294.882mil) on Top Layer 1 [Top Solder] Mask Sliver [9.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (9.843mil < 10mil) Between Pad U1-1(2452.598mil,294.882mil) on Top Layer 1 And Pad U1-2(2490mil,294.882mil) on Top Layer 1 [Top Solder] Mask Sliver [9.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (9.843mil < 10mil) Between Pad U1-2(2490mil,294.882mil) on Top Layer 1 And Pad U1-3(2527.402mil,294.882mil) on Top Layer 1 [Top Solder] Mask Sliver [9.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (9.843mil < 10mil) Between Pad U1-4(2527.402mil,405.118mil) on Top Layer 1 And Pad U1-5(2490mil,405.118mil) on Top Layer 1 [Top Solder] Mask Sliver [9.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (9.843mil < 10mil) Between Pad U1-4(2527.402mil,405.118mil) on Top Layer 1 And Pad U1-5(2490mil,405.118mil) on Top Layer 1 [Top Solder] Mask Sliver [9.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (9.843mil < 10mil) Between Pad U1-5(2490mil,405.118mil) on Top Layer 1 And Pad U1-6(2452.598mil,405.118mil) on Top Layer 1 [Top Solder] Mask Sliver [9.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.874mil < 10mil) Between Pad U2-1(770.63mil,1313.386mil) on Top Layer 1 And Pad U2-2(790.315mil,1313.386mil) on Top Layer 1 [Top Solder] Mask Sliver [5.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.874mil < 10mil) Between Pad U2-10(770.63mil,1486.614mil) on Top Layer 1 And Pad U2-9(790.315mil,1486.614mil) on Top Layer 1 [Top Solder] Mask Sliver [5.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.874mil < 10mil) Between Pad U2-2(790.315mil,1313.386mil) on Top Layer 1 And Pad U2-3(810mil,1313.386mil) on Top Layer 1 [Top Solder] Mask Sliver [5.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.874mil < 10mil) Between Pad U2-3(810mil,1313.386mil) on Top Layer 1 And Pad U2-4(829.685mil,1313.386mil) on Top Layer 1 [Top Solder] Mask Sliver [5.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.874mil < 10mil) Between Pad U2-4(829.685mil,1313.386mil) on Top Layer 1 And Pad U2-5(849.37mil,1313.386mil) on Top Layer 1 [Top Solder] Mask Sliver [5.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.874mil < 10mil) Between Pad U2-6(849.37mil,1486.614mil) on Top Layer 1 And Pad U2-7(829.685mil,1486.614mil) on Top Layer 1 [Top Solder] Mask Sliver [5.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.874mil < 10mil) Between Pad U2-7(829.685mil,1486.614mil) on Top Layer 1 And Pad U2-8(810mil,1486.614mil) on Top Layer 1 [Top Solder] Mask Sliver [5.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.874mil < 10mil) Between Pad U2-8(810mil,1486.614mil) on Top Layer 1 And Pad U2-9(790.315mil,1486.614mil) on Top Layer 1 [Top Solder] Mask Sliver [5.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2mil < 10mil) Between Via (739.577mil,1573.286mil) from Top Layer 1 to Bottom Layer 1 And Via (774.5mil,1570.957mil) from Top Layer 1 to Bottom Layer 1 [Top Solder] Mask Sliver [2mil] / [Bottom Solder] Mask Sliver [2mil]
+Rule Violations :18
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (9.706mil < 10mil) Between Arc (1421.5mil,1439mil) on Top Overlay And Pad D1-1(1466.5mil,1439mil) on Top Layer 1 [Top Overlay] to [Top Solder] clearance [9.706mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.706mil < 10mil) Between Arc (1736.5mil,1434mil) on Top Overlay And Pad D2-1(1781.5mil,1434mil) on Top Layer 1 [Top Overlay] to [Top Solder] clearance [9.706mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.706mil < 10mil) Between Arc (2056.5mil,1429mil) on Top Overlay And Pad D4-1(2101.5mil,1429mil) on Top Layer 1 [Top Overlay] to [Top Solder] clearance [9.706mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.706mil < 10mil) Between Arc (2356.5mil,1429mil) on Top Overlay And Pad D3-1(2401.5mil,1429mil) on Top Layer 1 [Top Overlay] to [Top Solder] clearance [9.706mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.802mil < 10mil) Between Pad D1-3(1593.5mil,1631mil) on Top Layer 1 And Track (1522.5mil,1629mil)(1610mil,1545mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.802mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.802mil < 10mil) Between Pad D2-3(1908.5mil,1626mil) on Top Layer 1 And Track (1837.5mil,1624mil)(1925mil,1540mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.802mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.802mil < 10mil) Between Pad D3-3(2528.5mil,1621mil) on Top Layer 1 And Track (2457.5mil,1619mil)(2545mil,1535mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.802mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.802mil < 10mil) Between Pad D4-3(2228.5mil,1621mil) on Top Layer 1 And Track (2157.5mil,1619mil)(2245mil,1535mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.802mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.5mil < 10mil) Between Pad LED1-1(824mil,465mil) on Top Layer 1 And Track (708mil,512mil)(818mil,512mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.5mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.5mil < 10mil) Between Pad LED1-1(824mil,465mil) on Top Layer 1 And Track (709mil,417mil)(819mil,417mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.5mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.5mil < 10mil) Between Pad LED1-2(706mil,465mil) on Top Layer 1 And Track (708mil,512mil)(818mil,512mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.5mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.5mil < 10mil) Between Pad LED1-2(706mil,465mil) on Top Layer 1 And Track (709mil,417mil)(819mil,417mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.5mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.5mil < 10mil) Between Pad LED2-1(824mil,120mil) on Top Layer 1 And Track (708mil,167mil)(818mil,167mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.5mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.5mil < 10mil) Between Pad LED2-1(824mil,120mil) on Top Layer 1 And Track (709mil,72mil)(819mil,72mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.5mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.5mil < 10mil) Between Pad LED2-2(706mil,120mil) on Top Layer 1 And Track (708mil,167mil)(818mil,167mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.5mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.5mil < 10mil) Between Pad LED2-2(706mil,120mil) on Top Layer 1 And Track (709mil,72mil)(819mil,72mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.5mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.5mil < 10mil) Between Pad LED3-1(1481mil,400mil) on Top Layer 1 And Track (1486mil,448mil)(1596mil,448mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.5mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.5mil < 10mil) Between Pad LED3-1(1481mil,400mil) on Top Layer 1 And Track (1487mil,353mil)(1597mil,353mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.5mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.5mil < 10mil) Between Pad LED3-2(1599mil,400mil) on Top Layer 1 And Track (1486mil,448mil)(1596mil,448mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.5mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.5mil < 10mil) Between Pad LED3-2(1599mil,400mil) on Top Layer 1 And Track (1487mil,353mil)(1597mil,353mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.5mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.755mil < 10mil) Between Pad Q1-1(725.472mil,280mil) on Top Layer 1 And Track (744.472mil,254mil)(766.148mil,254mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.755mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.283mil < 10mil) Between Pad Q1-1(725.472mil,280mil) on Top Layer 1 And Track (745.472mil,304mil)(767.148mil,304mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.283mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.585mil < 10mil) Between Pad Q1-2(784.528mil,280mil) on Top Layer 1 And Track (744.472mil,254mil)(766.148mil,254mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.585mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.412mil < 10mil) Between Pad Q1-2(784.528mil,280mil) on Top Layer 1 And Track (745.472mil,304mil)(767.148mil,304mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.412mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.197mil < 10mil) Between Pad Q1-2(784.528mil,280mil) on Top Layer 1 And Track (812.472mil,260mil)(812.472mil,299mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.197mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.528mil < 10mil) Between Pad U1-1(2452.598mil,294.882mil) on Top Layer 1 And Track (2446mil,328mil)(2446mil,354mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.528mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.528mil < 10mil) Between Pad U1-1(2452.598mil,294.882mil) on Top Layer 1 And Track (2446mil,328mil)(2446mil,354mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.528mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.528mil < 10mil) Between Pad U1-1(2452.598mil,294.882mil) on Top Layer 1 And Track (2446mil,328mil)(2446mil,354mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.528mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.528mil < 10mil) Between Pad U1-1(2452.598mil,294.882mil) on Top Layer 1 And Track (2446mil,328mil)(2447mil,328mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.528mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.528mil < 10mil) Between Pad U1-1(2452.598mil,294.882mil) on Top Layer 1 And Track (2446mil,328mil)(2447mil,328mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.528mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.528mil < 10mil) Between Pad U1-1(2452.598mil,294.882mil) on Top Layer 1 And Track (2446mil,328mil)(2447mil,328mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.528mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.528mil < 10mil) Between Pad U1-1(2452.598mil,294.882mil) on Top Layer 1 And Track (2447mil,328mil)(2534mil,328mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.528mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.528mil < 10mil) Between Pad U1-1(2452.598mil,294.882mil) on Top Layer 1 And Track (2447mil,328mil)(2534mil,328mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.528mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.528mil < 10mil) Between Pad U1-1(2452.598mil,294.882mil) on Top Layer 1 And Track (2447mil,328mil)(2534mil,328mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.528mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.528mil < 10mil) Between Pad U1-2(2490mil,294.882mil) on Top Layer 1 And Track (2447mil,328mil)(2534mil,328mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.528mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.528mil < 10mil) Between Pad U1-3(2527.402mil,294.882mil) on Top Layer 1 And Track (2447mil,328mil)(2534mil,328mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.528mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.528mil < 10mil) Between Pad U1-3(2527.402mil,294.882mil) on Top Layer 1 And Track (2534mil,328mil)(2534mil,371mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.528mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.528mil < 10mil) Between Pad U1-4(2527.402mil,405.118mil) on Top Layer 1 And Track (2446mil,371mil)(2534mil,371mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.528mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.528mil < 10mil) Between Pad U1-4(2527.402mil,405.118mil) on Top Layer 1 And Track (2446mil,371mil)(2534mil,371mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.528mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.528mil < 10mil) Between Pad U1-4(2527.402mil,405.118mil) on Top Layer 1 And Track (2534mil,328mil)(2534mil,371mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.528mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.528mil < 10mil) Between Pad U1-4(2527.402mil,405.118mil) on Top Layer 1 And Track (2534mil,328mil)(2534mil,371mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.528mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.528mil < 10mil) Between Pad U1-5(2490mil,405.118mil) on Top Layer 1 And Track (2446mil,371mil)(2534mil,371mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.528mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.528mil < 10mil) Between Pad U1-6(2452.598mil,405.118mil) on Top Layer 1 And Track (2446mil,354mil)(2446mil,371mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.528mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.528mil < 10mil) Between Pad U1-6(2452.598mil,405.118mil) on Top Layer 1 And Track (2446mil,371mil)(2534mil,371mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.528mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.858mil < 10mil) Between Pad U2-1(770.63mil,1313.386mil) on Top Layer 1 And Track (750.945mil,1354.724mil)(869.055mil,1354.724mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.858mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.465mil < 10mil) Between Pad U2-10(770.63mil,1486.614mil) on Top Layer 1 And Track (750.945mil,1445.276mil)(869.055mil,1445.276mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.465mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.465mil < 10mil) Between Pad U2-2(790.315mil,1313.386mil) on Top Layer 1 And Track (750.945mil,1354.724mil)(869.055mil,1354.724mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.465mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.465mil < 10mil) Between Pad U2-3(810mil,1313.386mil) on Top Layer 1 And Track (750.945mil,1354.724mil)(869.055mil,1354.724mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.465mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.465mil < 10mil) Between Pad U2-4(829.685mil,1313.386mil) on Top Layer 1 And Track (750.945mil,1354.724mil)(869.055mil,1354.724mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.465mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.465mil < 10mil) Between Pad U2-5(849.37mil,1313.386mil) on Top Layer 1 And Track (750.945mil,1354.724mil)(869.055mil,1354.724mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.465mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.465mil < 10mil) Between Pad U2-6(849.37mil,1486.614mil) on Top Layer 1 And Track (750.945mil,1445.276mil)(869.055mil,1445.276mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.465mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.465mil < 10mil) Between Pad U2-7(829.685mil,1486.614mil) on Top Layer 1 And Track (750.945mil,1445.276mil)(869.055mil,1445.276mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.465mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.465mil < 10mil) Between Pad U2-8(810mil,1486.614mil) on Top Layer 1 And Track (750.945mil,1445.276mil)(869.055mil,1445.276mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.465mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.465mil < 10mil) Between Pad U2-9(790.315mil,1486.614mil) on Top Layer 1 And Track (750.945mil,1445.276mil)(869.055mil,1445.276mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.465mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.838mil < 10mil) Between Pad U3-1(1091.535mil,1352.598mil) on Top Layer 1 And Track (1024.409mil,1328.642mil)(1075.591mil,1328.642mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.838mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.838mil < 10mil) Between Pad U3-2(1091.535mil,1427.402mil) on Top Layer 1 And Track (1024.409mil,1451.358mil)(1075.591mil,1451.358mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.838mil]
+Rule Violations :56
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (7.005mil < 10mil) Between Arc (1845mil,970mil) on Top Overlay And Text "-" (1892.244mil,1060.551mil) on Top Overlay Silk Text to Silk Clearance [7.005mil]
+   Violation between Silk To Silk Clearance Constraint: (3.537mil < 10mil) Between Text "AREF" (922.244mil,1845mil) on Top Overlay And Track (695mil,1955mil)(1595mil,1955mil) on Top Overlay Silk Text to Silk Clearance [3.537mil]
+   Violation between Silk To Silk Clearance Constraint: (3.537mil < 10mil) Between Text "AREF" (922.244mil,1845mil) on Top Overlay And Track (795mil,1955mil)(1695mil,1955mil) on Top Overlay Silk Text to Silk Clearance [3.537mil]
+   Violation between Silk To Silk Clearance Constraint: (7.072mil < 10mil) Between Text "D11~" (1327.244mil,1845mil) on Top Overlay And Track (695mil,1955mil)(1595mil,1955mil) on Top Overlay Silk Text to Silk Clearance [7.072mil]
+   Violation between Silk To Silk Clearance Constraint: (7.072mil < 10mil) Between Text "D11~" (1327.244mil,1845mil) on Top Overlay And Track (795mil,1955mil)(1695mil,1955mil) on Top Overlay Silk Text to Silk Clearance [7.072mil]
+   Violation between Silk To Silk Clearance Constraint: (9.004mil < 10mil) Between Text "Gas Sensor" (187.747mil,1896.004mil) on Top Overlay And Track (143mil,1955mil)(445mil,1955mil) on Top Overlay Silk Text to Silk Clearance [9.004mil]
+   Violation between Silk To Silk Clearance Constraint: (5.69mil < 10mil) Between Text "LED2" (503.69mil,100.007mil) on Top Overlay And Track (666mil,90mil)(666mil,146mil) on Top Overlay Silk Text to Silk Clearance [5.69mil]
+Rule Violations :7
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 179
+Waived Violations : 0
+Time Elapsed        : 00:00:01

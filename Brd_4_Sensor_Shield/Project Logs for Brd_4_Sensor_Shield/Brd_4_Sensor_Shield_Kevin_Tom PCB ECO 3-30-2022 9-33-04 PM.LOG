@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=AIN3 Pin=U2-7
+Change Component Comment : Designator=TP4 Old Comment=SCL New Comment=TP_SCL
+Change Component Comment : Designator=TP3 Old Comment=SDA New Comment=TP_SDA
+Change Component Comment : Designator=J6 Old Comment=T/H_Sensor New Comment=Temp_Hum_Sensor
+Change Net Name : Old Net Name=AIN3 New Net Name=GND
+Added Pin To Net: NetName=AIN3 Pin=U2-7
+Added Net: Name=AIN3
+Added Room: Name=Brd_4_Sensor_Shield_Kevin_Tom

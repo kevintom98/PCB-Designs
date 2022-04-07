@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Brd_4_Sensor_Shield.PrjPcb]
+   Generated File[Brd_4_Sensor_Shield_Kevin_Tom.TXT]
+   Generated File[Brd_4_Sensor_Shield_Kevin_Tom.DRL]
+   Generated File[Brd_4_Sensor_Shield_Kevin_Tom.LDP]
+   Generated File[Brd_4_Sensor_Shield_Kevin_Tom.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 8:31:41 AM On 3/31/2022

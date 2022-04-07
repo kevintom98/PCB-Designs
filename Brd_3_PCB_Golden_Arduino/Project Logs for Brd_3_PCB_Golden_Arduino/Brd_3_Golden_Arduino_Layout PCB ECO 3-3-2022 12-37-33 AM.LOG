@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=CH340G_TX Pin=TP4-1
+Removed Pin From Net: NetName=GND Pin=TP4-2
+Removed Pin From Net: NetName=GND Pin=TP4-2
+Removed Pin From Net: NetName=GND Pin=TP4-2
+Removed Pin From Net: NetName=CH340G_RX Pin=TP6-1
+Removed Pin From Net: NetName=GND Pin=TP6-2
+Removed Pin From Net: NetName=GND Pin=TP6-2
+Removed Pin From Net: NetName=GND Pin=TP6-2
+Removed Member From Class: ClassName=Brd_3_Golden_Ardunio_Schematic Member=TP4
+Removed Member From Class: ClassName=Brd_3_Golden_Ardunio_Schematic Member=TP6
+Change Component Comment : Designator=TP2 Old Comment=3.3V New Comment=10x Probe TP
+Change Component Comment : Designator=TP1 Old Comment=Data+ New Comment=10x Probe TP
+Change Component Comment : Designator=TP5 Old Comment=Data- New Comment=10x Probe TP
+Change Component Comment : Designator=TP3 Old Comment=R_sense New Comment=10x Probe Floating TP
+Added Room: Name=Brd_3_Golden_Ardunio_Schematic

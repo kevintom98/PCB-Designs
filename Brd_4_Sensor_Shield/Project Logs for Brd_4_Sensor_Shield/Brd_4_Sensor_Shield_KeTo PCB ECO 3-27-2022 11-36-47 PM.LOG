@@ -1,0 +1,9 @@
+Added Component: Designator=U1(DAC_MCP4725A0T-E/CH)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811151442_Microchip-Tech-MCP4725A0T-E-CH_C144198.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C144198"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "MCP4725A0T-E/CH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-6L"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Net: Name=GND
+Added Class: Name=Brd_4_Sensor_Shield_Kevin_Tom
+Added Room: Name=Brd_4_Sensor_Shield_Kevin_Tom

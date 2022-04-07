@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Brd_4_Sensor_Shield_Kevin_Tom.PcbDoc   3/31/2022  8:31:41 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer 1 to Bottom Layer 1
+ASCII RoundHoles File : Brd_4_Sensor_Shield_Kevin_Tom.TXT
+EIA File   : Brd_4_Sensor_Shield_Kevin_Tom.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      13mil (0.33mm)                                            Round             67        PTH        15.60inch (396.36mm)
+T2      22mil (0.55mm)                                            Round             2         PTH        0.06inch (1.40mm)
+T3      35mil (0.9mm)                                             Round             2         PTH        0.26inch (6.50mm)
+T4      40mil (1.016mm)                                           Round             16        PTH        2.86inch (72.54mm)
+T5      43mil (1.1mm)                                             Round             40        PTH        7.42inch (188.44mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              127
+
+Total Processing Time (hh:mm:ss) : 00:00:00

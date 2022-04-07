@@ -1,0 +1,1 @@
+1. Which is better, 1. Single capacitor at the end of switch or 2 capacitors at the power supplies.

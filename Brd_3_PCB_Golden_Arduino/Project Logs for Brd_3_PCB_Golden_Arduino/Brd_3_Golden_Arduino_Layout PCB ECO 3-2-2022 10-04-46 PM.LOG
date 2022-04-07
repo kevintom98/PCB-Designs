@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=L1-1
+Removed Pin From Net: NetName=+5 Pin=L1-2
+Removed Member From Class: ClassName=Brd_3_Golden_Ardunio_Schematic Member=L1
+Added Component: Designator=FB1(0603_PASSIVE_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1608S100KTF_C1035.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C1035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "SDFL1608S100KTF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=FB1-1
+Added Pin To Net: NetName=NetC5_1 Pin=FB1-2
+Added Member To Class: ClassName=Brd_3_Golden_Ardunio_Schematic Member=Component FB1 FB_10uH_0603

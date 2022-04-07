@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=+5 Pin=C7-2
+Removed Member From Class: ClassName=Brd_3_Golden_Ardunio_Schematic Member=C7
+Change Component Comment : Designator=TP2 Old Comment=3.3V New Comment=10x Probe TP
+Change Component Comment : Designator=TP3 Old Comment=5V New Comment=10x Probe Floating TP
+Change Component Comment : Designator=TP1 Old Comment=D+ New Comment=10x Probe TP
+Change Component Comment : Designator=TP5 Old Comment=D- New Comment=10x Probe TP
+Added Component: Designator=C?(0805_Passive_Capaciitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21A226MAQNNNE_C45783.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C45783"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL21A226MAQNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Member To Class: ClassName=Brd_3_Golden_Ardunio_Schematic Member=Component C? 22uF
+Added Member To Class: ClassName=Brd_3_Golden_Ardunio_Schematic Member=Component U1 CH340G
+Added Room: Name=Brd_3_Golden_Ardunio_Schematic
